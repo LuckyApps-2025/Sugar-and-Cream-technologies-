@@ -20,7 +20,7 @@ Drive cars, explore beaches, interact with NPCs, and take on the police in a rea
 - 👔 Outfit changing system
 - 🎵 Juice WRLD style background music
 - 🍻 Get drunk at the bar
-
+  crime activities 
 ## 📸 Screenshots
 <img width="1024" height="1024" alt="file_00000000da8461f8a1a78d050540d2b9 (2)" src="https://github.com/user-attachments/assets/0df5b049-039e-4ef5-b89e-56454b626b3e" />
 
