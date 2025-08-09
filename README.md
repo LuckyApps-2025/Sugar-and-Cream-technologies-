@@ -20,7 +20,7 @@ Drive cars, explore beaches, interact with NPCs, and take on the police in a rea
 - 🍻 Get drunk at the bar
 
 ## 📸 Screenshots
-*(Coming soon)*
+<img width="1024" height="1024" alt="file_00000000da8461f8a1a78d050540d2b9 (2)" src="https://github.com/user-attachments/assets/0df5b049-039e-4ef5-b89e-56454b626b3e" />
 
 ## 📱 Installation
 1. Download the latest APK from the [Releases](../../releases) page.
