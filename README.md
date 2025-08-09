@@ -1,4 +1,6 @@
-# Sugar-and-Cream-technologies-
+<p align="center">
+  <img src="Screenshots/SUGAR_AND_CREAM_logo.png" alt="Sugar and Cream Logo" width="300"/>
+</p># Sugar-and-Cream-technologies-
 GTA-style open world game for Android by LuckyB apps
 # Sugar and Cream 💜
 *By LuckyApps*
